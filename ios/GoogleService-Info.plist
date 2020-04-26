@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>444555510348-knqh7404obs32hu5aoa6r00pegtfgo34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.444555510348-knqh7404obs32hu5aoa6r00pegtfgo34</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABBBRDYiZnAy3hwf_oUcq5TuslYJEcVXA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>444555510348</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.reactapp</string>
+	<key>PROJECT_ID</key>
+	<string>hello-kunak</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hello-kunak.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:444555510348:ios:2b9480054f11d02dad6ae9</string>
+	<key>DATABASE_URL</key>
+	<string>https://hello-kunak.firebaseio.com</string>
+</dict>
+</plist>
